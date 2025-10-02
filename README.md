@@ -1,7 +1,8 @@
 ```
 # **Vision Transformer (ViT) from "An Image is Worth 16x16 Words"** 🖼️✨
 
-This repository contains my implementation of the **Vision Transformer** (ViT) model based on the groundbreaking paper, **"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"** by Dosovitskiy et al. 2020. 📜🚀
+This repository contains my implementation of the **Vision Transformer** (ViT) model based on the groundbreaking paper,
+**"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"** by Dosovitskiy et al. 2020. 📜🚀
 
 ---
 
